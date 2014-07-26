@@ -1,0 +1,168 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"gr",
+				"group"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Sites/sample_app/Gemfile",
+		"/C/Sites/sample_app/config/initializers/secret_token.rb",
+		"/C/Sites/sample_app/README.md",
+		"/C/Sites/todo/app/controllers/application_controller.rb",
+		"/C/Sites/sample_app/.gitignore",
+		"/C/Sites/demo_app/app/controllers/users_controller.rb",
+		"/C/Sites/demo_app/app/models/micropost.rb",
+		"/C/Sites/demo_app/app/models/user.rb",
+		"/C/Sites/demo_app/app/controllers/microposts_controller.rb",
+		"/C/Sites/demo_app/config/routes.rb",
+		"/C/Sites/demo_app/.gitignore",
+		"/C/Sites/demo_app/Gemfile",
+		"/C/Sites/demo_app/readme.md",
+		"/C/Sites/first_app/README.md",
+		"/C/Sites/first_app/Gemfile",
+		"/C/Sites/first_app/.gitignore",
+		"/C/Users/User/.ssh/id_rsa.pub",
+		"/C/Sites/first_app/config.ru",
+		"/C/Sites/depot/config/routes.rb",
+		"/C/Sites/depot/app/views/products/new.html.erb",
+		"/C/Sites/depot/db/migrate/20140424194819_create_products.rb",
+		"/C/Users/User/blog/app/views/posts/new.html.erb",
+		"/C/Users/User/blog/app/controllers/application_controller.rb",
+		"/C/Sites/todo/test/test_helper.rb",
+		"/C/Users/User/Documents/Visual Studio 2010/Projects/TestMaster2/Help/intro.html",
+		"/C/Users/User/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Sites/depot/depot.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 183.0,
+	"status_bar_visible": true
+}
