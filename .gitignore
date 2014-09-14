@@ -19,3 +19,5 @@ doc/
 .idea
 .secret
 *.bat
+*.sublime-workspace
+*.sublime-project
